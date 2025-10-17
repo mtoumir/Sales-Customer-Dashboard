@@ -1,0 +1,77 @@
+📊 Sales & Customer Performance Dashboards (Tableau)
+
+This project consists of two interactive Tableau dashboards — Sales Dashboard and Customer Dashboard — designed to help stakeholders such as sales managers, marketing teams, and executives analyze key performance metrics, monitor trends, and gain insights into overall business performance.
+
+The dashboards provide year-over-year comparisons, trend analysis, and interactive filtering to enable data-driven decision-making.
+
+🎯 Objectives
+
+Monitor sales performance and profitability over time.
+Understand customer behavior, loyalty, and segmentation.
+
+Enable users to interactively explore data and uncover actionable insights.
+
+
+📈 Dashboards Overview
+
+🛍️ Sales Dashboard
+Purpose:
+Provide an overview of sales metrics and trends to analyze year-over-year performance and identify key sales drivers.
+
+Key Features:
+
+KPI Overview: Displays total sales, profits, and quantities for the current and previous years.
+
+Sales Trends: Monthly trend charts for sales, profit, and quantity with clear identification of highest and lowest months.
+
+Product Subcategory Comparison: Compare sales and profit performance across subcategories for both years.
+
+Weekly Trends: Weekly sales and profit visualization with average line highlighting above/below-average performance.
+
+
+👥 Customer Dashboard
+Purpose:
+Provide insights into customer data, trends, and behaviors to support marketing and retention strategies.
+
+Key Features:
+KPI Overview: Displays total customers, total sales per customer, and total number of orders for the current and previous years.
+
+Customer Trends: Monthly analysis of customer KPIs with visual highlights for peak and low months.
+
+Customer Distribution: Visualization of customers by number of orders to understand engagement and loyalty levels.
+
+Top 10 Customers by Profit: Highlights the most profitable customers, including their rank, order count, total sales, profit, and last order date.
+
+🧭 Design & Interactivity
+Dynamic Dashboard: Users can select any desired year to analyze historical data.
+Seamless Navigation: Easy switch between Sales and Customer dashboards.
+Interactive Visuals: Charts are clickable and can act as filters.
+Advanced Filtering:
+Product-based filters: Category, Subcategory
+Location-based filters: Region, State, City
+
+🗂️ Data
+The dashboards are built using sales and customer datasets that include key fields such as:
+Sales Data: Order Date, Sales, Profit, Quantity, Category, Subcategory, Region, State, City.
+Customer Data: Customer ID, Customer Name, Number of Orders, Total Sales, Profit, Last Order Date.
+
+🧠 Tools & Technologies
+Tableau Desktop / Tableau Public
+Excel or CSV datasets (for input)
+
+🚀 How to Use
+Open the Tableau file (.twbx) in Tableau Desktop or Tableau Public.
+go MOde Preview or presentation and explore both dashboards through the navigation buttons.
+Use filters to analyze specific years, regions, or product categories.
+Interact with charts to drill down into specific data points.
+
+
+
+👤 Author:
+
+Mohamed Toumir
+engineer of digital information and digitalization
+📍 Based in Morocco
+📧 mtoumir@gmail.com
+🔗 Portoflio: https://toumir-mohamed-portfolio.vercel.app/
+🔗 GitHub: mtoumir
